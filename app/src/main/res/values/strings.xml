@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceSimulator</string>
+    <string name="_6_sided_dice">6 sided dice</string>
+    <string name="_20_sided_dice">20 sided dice</string>
+    <string name="nb_sided_dice">x sided dice</string>
+    <string name="roll_the_dice">Roll the dice...</string>
+</resources>

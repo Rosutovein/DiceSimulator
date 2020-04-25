@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiceSimulator</string>
+    <string name="_6_sided_dice">Dé à 6 côtés</string>
+    <string name="_20_sided_dice">Dé à 20 cotés</string>
+    <string name="nb_sided_dice">x sided dice</string>
+    <string name="roll_the_dice">Lancer le dé...</string>
+</resources>
